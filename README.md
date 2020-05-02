@@ -11,5 +11,5 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/mMmP9aA.gifv)
+![](https://i.imgur.com/tT6hFZ4.gif)
 > 相隔 23 年後的完全重製版
